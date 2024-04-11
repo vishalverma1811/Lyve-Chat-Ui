@@ -6,7 +6,11 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Here is the video of the application
+
+https://github.com/vishalverma1811/Lyve-Chat-Ui/assets/106256341/9af378a9-2f8b-4ee7-b067-a672e410c007
+
+our first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
